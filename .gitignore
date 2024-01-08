@@ -1,1 +1,12 @@
 *.fits
+SP.2.ipynb
+SP.2.ipynb
+SP.3.ipynb
+plots.png
+plots.png
+DESI-LERG-plots.pdf
+DESI-HERG-plots.pdf
+DESI-SFG-plots.pdf
+.DS_Store
+concat.py
+SP.4.ipynb
